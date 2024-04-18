@@ -21,3 +21,16 @@ body {
   align-items: center;
   gap: 20px;
 }
+img {
+  width: 400px;
+  height: auto;
+}
+h2 {
+  color: rgb(255, 152, 115);
+  letter-spacing: 3px;
+}
+button {
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+}

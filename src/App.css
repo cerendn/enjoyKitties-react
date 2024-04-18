@@ -24,6 +24,7 @@ body {
 img {
   width: 400px;
   height: auto;
+  border: 2px solid salmon;
 }
 h2 {
   color: rgb(255, 152, 115);
@@ -33,4 +34,7 @@ button {
   cursor: pointer;
   padding: 10px 20px;
   border-radius: 5px;
+  color: rgb(219, 214, 251);
+  background-color: salmon;
+  border: 1px solid slateblue;
 }
